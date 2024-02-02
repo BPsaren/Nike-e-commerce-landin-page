@@ -30,7 +30,7 @@ This project is a responsive Nike e-commerce landing page built with React.js, T
 ## 3.Install dependencies:
    ```bash
 npm install
-   ```
+```
 ## 4.Run the development server:
     ```bash
 npm run dev
