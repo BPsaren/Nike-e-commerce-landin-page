@@ -50,4 +50,4 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://imgur.com/yDYHbBR)https://imgur.com/yDYHbBR)
