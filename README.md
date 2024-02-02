@@ -27,16 +27,16 @@ This project is a responsive Nike e-commerce landing page built with React.js, T
    ```bash
    cd Nike-e-commerce-landin-page
 ```
-## Install dependencies:
+## 3.Install dependencies:
    ```bash
 npm install
    ```
 ## 4.Run the development server:
     ```bash
 npm run dev
-
+```
 ## 5.Open your browser and visit http://localhost:3000 to view the app.
-
+```
 ## Deployment
 To deploy the app, build the production-ready files:
     ```bash
