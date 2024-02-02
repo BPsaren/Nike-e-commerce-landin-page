@@ -22,3 +22,6 @@ This project is a responsive Nike e-commerce landing page built with React.js, T
 1. Clone the repository:
    ```bash
    git clone https://github.com/BPsaren/Nike-e-commerce-landing-page.git
+   
+Navigate to the project directory:
+cd Nike-e-commerce-landing-page
